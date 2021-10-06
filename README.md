@@ -96,10 +96,12 @@ When you buy a product online, most websites automatically recommend other produ
 #### WEEK 10
 
 **Large Scale Machine Learning**
+
 Machine learning works best when there is an abundance of data to leverage for training. In this module, we discuss how to apply the machine learning algorithms with large datasets.
 
 
 #### WEEK 11
 
 **Photo OCR**
+
 Identifying and recognizing objects, words, and digits in an image is a challenging task. We discuss how a pipeline can be built to tackle this problem and how to analyze and improve the performance of such a system.
