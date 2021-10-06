@@ -1,5 +1,5 @@
 # Stanford University
-### Machine Learning Cource (11 weeks)
+### Machine Learning Course (11 weeks)
 
 *Received Grade 100%*
 
