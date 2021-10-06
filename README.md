@@ -1,7 +1,9 @@
 # Stanford University
 ### Machine Learning Course (11 weeks)
 
-*Received Grade 100%*
+*Received Grade 100%* 
+
+[Certificate - Kalin Petrov](https://github.com/kalinpetrovbg/StanfordUniversity-ML/blob/main/Certificate-Stanford-Kalin.pdf)
 
 
 #### WEEK 1
